@@ -1,5 +1,5 @@
 #### Order food or coffee
-  * `I would like a` [food item](../vocab/cafe.md)
+  * Order something: [ordering food](../vocab/cafe.md#Ordering_food)
   * handle follow up questions to your order
     * accept or decline variations to the normal (would you like...)
   * handle mistake from waiter
