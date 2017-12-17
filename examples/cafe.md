@@ -3,6 +3,7 @@
 * Next, please
 
 ### Polite greetings
+* Good morning/afternoon!
 * Hi, how's it going?
 * What can I do for you?
 
@@ -31,10 +32,11 @@
 * Is skim milk okay?
 
 ### Handle missing ingredients
-* I'm sorry, we don't have any whole-grain bread left. Is white okay?
+* I'm sorry, we don't have any ... left. Is ... okay?
 
 
 ### Order on behalf of someone else
+* Are you paying for both?
 * I'll also pay for my friends here
 * What would you like
 * He'll also take a coffee/sandwich
