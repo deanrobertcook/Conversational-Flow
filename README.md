@@ -1,2 +1,5 @@
-# Conversational-Flow
-A by no means comprehensive list of flows of different possible conversations and lists of vocabulary to go with them.
+# Sentences
+## *(Needs a better name)*
+
+## Aim:
+To gather as many sentences of the most common daily interactions as possible, from as many different people as possible. 
