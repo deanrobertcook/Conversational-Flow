@@ -134,3 +134,50 @@
 * Oh! no, cappuccino! Sorry I thought you were asking if I was American. Sometimes I don't understand everything in ...
 * Oh, no - so you're Australian, how long have you been here for - 3 years.
 * What's your name? ... - it's a pleasure to meet you.
+
+### 20.12.17
+* How many more days is the training course running for? - Just until tomorrow.
+* How's everything going here? Did you have any problems today?
+* Pretty good for my first attempt, don't you think?
+* I hope it's for tomorrow? - Should I bring one [tomorrow]? - Why not?
+* Are you watching something? - No, I was just listening to a podcast
+
+### 21.12.17
+* I just loved how our new CEO made jokes about his ex-wife
+  * No, they were about his current wife, and I didn't find them very funny.
+  * Really? No, they can't have been? Who would make jokes like that about the person they're married to?
+  * My parents got divorced over 10 years ago, and they behave like absolute children to each other.
+  * I guess I just assumed anyone who makes jokes like that about someone can't be married to them.
+* The trains aren't running anymore and I have to be at work at 7:30!
+  * I'm sure you can stay at either Mascha's, or you can stay at mine. We live only about 30 minutes away by foot.
+  * Okay, I'll stay at yours, but I'm sleeping on the couch! - you have a couch, don't you?
+  * I actually have a whole guest bed for you.
+* You'll have to excuse my apartment, it's a little bit untidy - See! Look at all this rubbish in the hallway.
+* You really need something for your walls - they're so white!
+* Do you also have an iPhone charger at your place?
+  * I do - oh, crap, wait - I left it in my bag in the office.
+  * That's okay, are you able to set an alarm for me?
+  * Yeah, sure. I'll set an alarm and get you up when it goes off.
+  * Hmm, actually, I don't trust you. Can have just borrow your phone? When it goes off, I can come and give it to you, then you can sleep in.
+* I also have an electronic toothbrush head for you.
+  * Oh, thanks, but aren't they really expensive? - Oh, don't worry about it.
+  * I just left the toothbrush head here next to the toothbrush for you.
+  * Do you use an electric toothbrush at home as well? - of course!
+* You do you also have the morning toothpaste? Did you know this one is just for evenings? It's less powerful.
+  * No, I didn't! I think I know what you're talking about though. I think I've seen it at the shops.
+* Morning! Just wanted to check that you're awake. - Yeah, I am, I'm just resting a little.
+  * Be careful you don't fall back asleep - I won't!
+  * Can I have my phone back? I'm going back to bed and need the alarm in an hour and a half.
+* Oh my god - I just realised I don't have a lighter. I'll be right back.
+
+### 22.12.17
+* Are you alright? - Oh fuck.. just woke up... I'll be at work in an hour.
+* I did that thing where I dreamt about my alarm clock going off. I somehow turned if off without remembering, and woke up 2 hours later.
+* Thanks for letting me stay at yours last night - Of course, no problem! Did you get to work on time?
+* Is there something wrong with the backup server today? My test app isn't working.
+* I love this camembert cheese! - really, I hate it - What?!, what is wrong with you? :P
+* I totally slept in... Feeling pretty good now though.
+* (Jokingly:) Can we have one day where you don't make fun of me? - Sorry, my default is just to give everyone a hard time.
+* I may have actually influenced Alex's decision to stay at yours last night - yeah? how so?
+* We spoke in the bathroom briefly. I just asked her why she's so afraid. Dean's a nice guy: he stays at my place all the time!
+* Merry Christmas! - (joking:) I'm not a Christian, I don't know what Christmas is.

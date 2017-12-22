@@ -39,6 +39,11 @@ Got a little experiment idea if you guys want to help me out at all? Basically -
 * http://sentence.yourdictionary.com/
 * **BEST:** http://sentencedict.com/
 
+### Reading for NLP:
+* https://stackoverflow.com/questions/30795944/how-can-a-sentence-or-a-document-be-converted-to-a-vector
+* https://arxiv.org/abs/1502.06922
+* [Basic statistical NLP](http://billchambers.me/tutorials/2014/12/21/tf-idf-explained-in-python.html)
+* http://api.cortical.io/
 
 
 ### Thinking of scenarios - useful?
