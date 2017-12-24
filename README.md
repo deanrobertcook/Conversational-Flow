@@ -29,4 +29,5 @@
 * Figure out how to decide if two sentences are similar in either structure or meaning
 * List the sentences in order of greatest similarity with other sentences.
 * Find translaters and speakers for work through all the sentences available.
+* Evaluate the quality of two sets of translations, for example compare French and German after both have been translated from English. Can a French speaker then use the German list while avoiding the English list altogether? 
 * Rinse and repeat.
