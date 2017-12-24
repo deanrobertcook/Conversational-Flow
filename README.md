@@ -1,5 +1,4 @@
-# Sentences
-## *(Needs a better name)*
+# Sentences *(Needs a better name)*
 
 ## Aims of the project:
 1. To assemble a representative list of the x most useful sentences in English that any language learner - beyond the level of absolute beginner - can have translated and recorded into their target language and learn.
