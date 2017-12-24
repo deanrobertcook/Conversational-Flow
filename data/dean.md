@@ -169,6 +169,7 @@
   * Be careful you don't fall back asleep - I won't!
   * Can I have my phone back? I'm going back to bed and need the alarm in an hour and a half.
 * Oh my god - I just realised I don't have a lighter. I'll be right back.
+* Excuse me, does anyone here have a lighter? 
 
 ### 22.12.17
 * Are you alright? - Oh fuck.. just woke up... I'll be at work in an hour.
