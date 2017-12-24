@@ -9,9 +9,8 @@
 ### Motiviation:
 * Many amazing word frequency lists and pronunciation dictionairies.
 * Words are problematic for learning a language, sentences are better.
-* Many very expensive services provide something similar (Glossika, Primsleur). Lack of transparancy
-* No open source alternatives
-* Most "sentence dictionairies" provide no weighting to a sentence. All are treated equally, and I hypothesise this is not the case for language acquisition.
+* Many very expensive services provide something similar (Glossika, Primsleur). Lack of transparancy in how sentences are generated, not necessarily optimal.
+* Most open-source "sentence dictionairies" provide no weighting to a sentence. All are treated equally and so the user is still left with the burden of deciding which sentences to study.
 * Most of the (at least my own personal) time spent learning a language deals with the question "what should I learn next?". This project will provide a clear list of what to learn that should carry a learner far into grasping the core of a language.
 
 ### Core assumptions (to be substantiated)
@@ -29,5 +28,5 @@
 * Figure out how to decide if two sentences are similar in either structure or meaning
 * List the sentences in order of greatest similarity with other sentences.
 * Find translaters and speakers for work through all the sentences available.
-* Evaluate the quality of two sets of translations, for example compare French and German after both have been translated from English. Can a French speaker then use the German list while avoiding the English list altogether? 
+* Evaluate the quality of two sets of translations, for example compare French and German after both have been translated from English. Can a French speaker then use the German list while avoiding the English list altogether?
 * Rinse and repeat.
